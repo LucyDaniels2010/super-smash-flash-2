@@ -4,7 +4,7 @@ This is a really fun game to play, however keyboard sounds can be loud when play
 
 This game should run very well on any computer.
 
-To Download, go to ```<> Code``` at the top and click ```Download Zip```
+To Download, go to ```<> Code``` at the top and click ```Download Zip``` or go below to the credits.
 
 # Credits
 Original Download: [Here](https://www.supersmashflash.com/play/ssf2/downloads/)
